@@ -15,7 +15,7 @@ import java.util.concurrent.TimeUnit;
 import static jakartaWebSolution.mouseHouver.driver;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class chekout<actions> {
+public class  chekout<actions> {
 
 
 
